@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:minHeight="30dp"
+    android:clickable="false">
+
+    <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+        android:layout_width="0dp"
+        android:layout_weight="0.2"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/icon"/>
+    <!--android:background="@color/white"-->
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:textColor="@color/black"
+        android:gravity="center_vertical"
+        android:textSize="20sp"
+        android:id="@+id/text"/>
+    <!--android:background="@color/white"-->
+
+</LinearLayout>

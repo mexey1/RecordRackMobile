@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/white_circle.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/white_circle.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/login_inner_layout_unfocused.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/login_inner_layout_unfocused.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/peter_river_right_rounded_edge.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/peter_river_right_rounded_edge.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/drawer_listview_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/drawer_listview_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/orange_round_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/orange_round_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/bottom_border.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/bottom_border.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/grey_round_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/grey_round_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/turquoise_edittext.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/turquoise_edittext.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/grey_circle.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/grey_circle.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/username.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/username.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/login_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/login_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/blue_round_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/blue_round_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/turquoise_right_rounded_edge.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/turquoise_right_rounded_edge.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/blue_circular_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/blue_circular_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/pomegranate_round_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/pomegranate_round_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/off_switch_curved_corners.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/off_switch_curved_corners.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/horizontal_progress_drawable.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/horizontal_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/turquoise_round_button.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/turquoise_round_button.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/on_switch_curved_corners.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/on_switch_curved_corners.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/search_view_unfocused.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/search_view_unfocused.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/wet_asphalt_border.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/wet_asphalt_border.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/login_page_inner_background.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/login_page_inner_background.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/one_side_curved.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/one_side_curved.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/search_view_focused.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable/search_view_focused.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    }
+]

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white">
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="What would you like to do?"
+        android:textColor="@color/midnight_blue"
+        android:textSize="18sp"
+        android:gravity="center"/>
+
+    <!--<View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/battleship_grey"/>-->
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#ffffff"
+        android:layout_margin="5dp"
+        android:elevation="3dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:id="@+id/suspend_layout"
+            android:clickable="true">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="Suspend transaction"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:textColor="@color/battleship_grey"
+                android:textSize="16sp"
+                android:gravity="center|left"/>
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:text="@string/stop"
+                android:textColor="@color/turquoise"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:gravity="center"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#ffffff"
+        android:layout_margin="5dp"
+        app:cardElevation="3dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:id="@+id/delete_layout"
+            android:clickable="true">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:text="Clear transaction"
+                android:layout_weight="1"
+                android:padding="10dp"
+                android:textSize="16sp"
+                android:textColor="@color/battleship_grey"
+                android:gravity="center|left"/>
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:text="@string/trash"
+                android:textColor="@color/pomegranate"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:gravity="center"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="30dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Cancel"
+        android:id="@+id/cancel"
+        android:textColor="@color/white"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/blue_round_button"/>
+
+</LinearLayout>

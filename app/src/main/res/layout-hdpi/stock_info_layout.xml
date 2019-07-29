@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+        android:gravity="center"
+        android:textSize="17sp"
+        android:textColor="@color/battleship_grey"
+        android:layout_margin="5dp"
+        android:text="Saturday, July 29"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:id="@+id/container">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:id="@+id/end_data">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                android:layout_height="wrap_content"
+                android:text="@string/thumbs_up"
+                android:id="@+id/thumb_text"
+                android:textSize="50sp"
+                android:layout_margin="10dp"
+                android:textColor="@color/peterriver"/>
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_below="@+id/thumb_text"
+                android:text="You are all caught up for now..."/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="7dp">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="@string/backward"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:id="@+id/backward"
+            android:background="@drawable/orange_round_button"
+            android:layout_gravity="left"/>
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:textColor="@color/white"
+            android:background="@drawable/orange_round_button"
+            android:text="@string/forward"
+            android:gravity="center"
+            android:id="@+id/forward"
+            android:layout_gravity="right"/>
+    </LinearLayout>
+</LinearLayout>

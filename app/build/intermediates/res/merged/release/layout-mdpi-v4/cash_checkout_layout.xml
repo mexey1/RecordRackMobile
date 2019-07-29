@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background= "@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:text="@string/backward"
+            android:id="@+id/back"
+            android:background="@drawable/blue_circular_button"
+            android:textColor="@color/white"
+            android:layout_marginLeft="5dp"
+            android:gravity="center"/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Cash option"
+            android:textSize="20sp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/total"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="@color/battleship_grey"
+        android:background="@drawable/turquoise_edittext"
+        android:gravity="center"/>
+    <com.geckosolutions.recordrack.custom.CustomEditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/amount_paid"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:hint="Amount paid"
+        android:inputType="numberDecimal"
+        android:textColor="@color/battleship_grey"
+        android:background="@drawable/turquoise_edittext"
+        android:gravity="center"/>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/balance"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:hint="Change"
+        android:textColor="@color/android_green"
+        android:background="@drawable/turquoise_edittext"
+        android:gravity="center"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/login_button"
+        android:id="@+id/submit"
+        android:layout_margin="5dp"
+        android:textColor="@color/white"
+        android:text="Submit"/>
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+#Wed Apr 25 20:37:09 CDT 2018
+base.0=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5109192d7fefeed634dc6a2266d9a8dbe21dd43
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da597367edf4ff95d1fa8a1094d867c1a77e6efd/classes.dex
+base.1=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da597367edf4ff95d1fa8a1094d867c1a77e6efd
+file.0=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5109192d7fefeed634dc6a2266d9a8dbe21dd43/classes.dex

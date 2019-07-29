@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/sub_units_entry_help.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/sub_units_entry_help.png"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/product_category_help.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/product_category_help.png"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/add_item.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/add_item.png"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/sub_units_help.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/sub_units_help.png"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/sprite.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/sprite.png"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi/caution.png",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/caution.png"
+    }
+]

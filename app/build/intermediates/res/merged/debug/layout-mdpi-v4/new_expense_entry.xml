@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#ffffff"
+        app:cardElevation="3dp"
+        android:id="@+id/card"
+        android:layout_margin="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/logo"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical">
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Income"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:gravity="center|left"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:textSize="15sp"
+                    android:textColor="@color/battleship_grey"
+                    android:gravity="center|left"
+                    android:layout_marginBottom="10dp"
+                    android:text="Did money leave your business?"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardElevation="3dp"
+        app:cardBackgroundColor="#ffffff">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/name"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:hint="Who was paid?"
+                android:gravity="center"
+                android:background="@drawable/turquoise_edittext"
+                android:layout_margin="5dp"/>
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/purpose"
+                android:hint="What is the money for?"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:background="@drawable/turquoise_edittext"
+                android:layout_margin="5dp"/>
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/amount"
+                android:hint="How much was paid?"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:inputType="numberDecimal"
+                android:background="@drawable/turquoise_edittext"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#ffffff"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            app:cardElevation="3dp">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Submit"
+                android:id="@+id/submit"
+                android:textColor="@color/white"
+                android:background="@drawable/login_button"/>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="#ffffff"
+            android:layout_weight="0.5"
+            android:layout_marginRight="10dp"
+
+            app:cardElevation="3dp">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Cancel"
+                android:id="@+id/cancel"
+                android:textColor="@color/white"
+                android:background="@drawable/pomegranate_round_button"/>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

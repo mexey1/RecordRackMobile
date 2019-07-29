@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="6dp"
+    >
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal">
+          <EditText
+              android:layout_width="0dp"
+              android:layout_height="50dp"
+              android:layout_weight="1"
+              android:background="@drawable/turquoise_edittext"
+              android:hint="Customer's name"
+              android:id="@+id/customer_name"
+              android:padding="5dp"
+              android:layout_margin="5dp"/>
+          <android.support.v7.widget.CardView
+              android:layout_width="70dp"
+              android:layout_height="50dp"
+              android:layout_margin="5dp"
+              app:cardElevation="4dp"
+              app:cardBackgroundColor="#ffffff">
+              <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:text="@string/options"
+                  android:id="@+id/options"
+                  android:clickable="true"
+                  android:textSize="25sp"
+                  android:gravity="center"
+                  android:textColor="@color/wet_asphalt"/>
+          </android.support.v7.widget.CardView>
+      </LinearLayout>
+
+      <ListView
+          android:layout_width="match_parent"
+          android:layout_height="0dp"
+          android:layout_weight="1"
+          android:id="@+id/items_list"
+          android:layout_marginBottom="5dp">
+      </ListView>
+
+      <android.support.design.widget.FloatingActionButton
+          android:clickable="true"
+          android:layout_height="wrap_content"
+          android:layout_width="wrap_content"
+          android:src="@drawable/plus1"
+          android:elevation="4dp"
+          android:id="@+id/add_button"
+          app:rippleColor="@color/silver"
+          app:layout_anchor="@id/items_list"
+          app:fabSize="normal"
+          android:layout_gravity="bottom|right" />
+
+      <com.geckosolutions.recordrack.custom.CustomTextView
+          android:layout_width="match_parent"
+          android:layout_height="50dp"
+          android:paddingRight="10dp"
+          android:gravity="center_vertical|right"
+          android:layout_marginBottom="10dp"
+          android:id="@+id/total"
+          android:textColor="@color/black"
+          android:textStyle="bold"
+          android:background="@drawable/turquoise_edittext"
+          android:hint="Total"/>
+      <!--<com.geckosolutions.recordrack.custom.CustomEditText
+          android:layout_width="match_parent"
+          android:layout_height="50dp"
+          android:paddingRight="10dp"
+          android:gravity="center_vertical|right"
+          android:background="@drawable/turquoise_edittext"
+          android:hint="Amount Paid"/>-->
+      <Button
+          android:layout_width="match_parent"
+          android:layout_height="50dp"
+          android:text="Checkout"
+          android:layout_marginTop="10dp"
+          android:id="@+id/checkout"
+          android:textColor="@color/white"
+          android:background="@drawable/login_button"/>
+  </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

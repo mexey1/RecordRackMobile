@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Item description"
+        android:gravity="center"
+        android:textColor="@color/wet_asphalt"
+        android:textSize="20sp"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <com.geckosolutions.recordrack.custom.CustomEditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:id="@+id/category"
+            android:background="@drawable/turquoise_edittext"
+            android:hint="Category"/>
+        <com.geckosolutions.recordrack.custom.CustomEditText
+            android:layout_width="match_parent"
+            android:background="@drawable/turquoise_edittext"
+            android:layout_height="50dp"
+            android:paddingLeft="10dp"
+            android:gravity="center"
+            android:id="@+id/item"
+            android:layout_marginBottom="10dp"
+            android:hint="Item"/>
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+    <!--<RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/turquoise"
+            android:id="@+id/plus"
+            android:gravity="center"
+            android:textSize="35sp"
+            android:text="@string/plus_circle"/>
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/plus"
+            android:textSize="35sp"
+            android:gravity="center"
+            android:textColor="@color/pomegranate"
+            android:text="@string/minus_circle"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:text="@string/next"/>
+
+    </RelativeLayout>-->
+
+    <!--
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:text="@string/category"
+            android:layout_weight="0.8"
+            android:gravity="center_vertical"
+            android:textColor="@color/battleship_grey"/>
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:text="@string/question"
+            android:textColor="@color/blue"/>
+    </LinearLayout>-->
+

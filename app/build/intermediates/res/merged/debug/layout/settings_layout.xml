@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardBackgroundColor="@color/white">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bottom_border"
+                android:text="Print"
+                android:textColor="@color/battleship_grey"
+                android:textSize="20sp"
+                android:padding="5dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal"
+                android:background="@drawable/bottom_border">
+
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:gravity="center"
+                    android:textSize="25sp"
+                    android:textColor="@color/turquoise"
+                    android:text="@string/print"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/battleship_grey"
+                    android:text="Enable printing"
+                    android:gravity="left|center"
+                    android:layout_weight="1"/>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="85dp"
+                    android:layout_height="33dp"
+                    android:background="@drawable/on_switch_curved_corners"
+                    android:clickable="true"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:id="@+id/on_switch"
+                    android:padding="2dp">
+
+                    <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                        android:layout_width="40dp"
+                        android:layout_height="30dp"
+                        android:textSize="25sp"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:textColor="@color/turquoise"
+                        android:text="@string/circle_filled"/>
+
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="40dp"
+                        android:layout_height="30dp"
+                        android:text="@string/on"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:textColor="@color/turquoise"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:orientation="horizontal"
+                    android:layout_width="85dp"
+                    android:layout_height="33dp"
+                    android:background="@drawable/off_switch_curved_corners"
+                    android:clickable="true"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:id="@+id/off_switch"
+                    android:visibility="gone"
+                    android:padding="2dp">
+
+                    <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                        android:layout_width="40dp"
+                        android:layout_height="30dp"
+                        android:textSize="25sp"
+                        android:gravity="center"
+                        android:text="@string/circle_filled"/>
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="40dp"
+                        android:layout_height="30dp"
+                        android:text="@string/off"
+                        android:textStyle="bold"
+                        android:textSize="18sp"
+                        android:textColor="@color/white"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="center"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:orientation="horizontal"
+                android:background="@drawable/bottom_border">
+
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:gravity="center"
+                    android:textSize="25sp"
+                    android:textColor="@color/peterriver"
+                    android:text="@string/bluetooth"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:textColor="@color/battleship_grey"
+                    android:text="Printer name"
+                    android:id="@+id/printer_name"
+                    android:gravity="left|center"
+                    android:layout_weight="1"/>
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/login_button"
+                    android:textColor="@color/white"
+                    android:layout_margin="10dp"
+                    android:text="Change"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardBackgroundColor="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bottom_border"
+                android:textColor="@color/battleship_grey"
+                android:text="Cloud"
+                android:textSize="20sp"
+                android:padding="5dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/force_bkup"
+                android:clickable="true"
+                android:background="@drawable/bottom_border"
+                android:orientation="horizontal">
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:textSize="25sp"
+                    android:text="@string/cloud_up"
+                    android:gravity="center"
+                    android:id="@+id/cloud_up"
+                    android:textColor="@color/turquoise"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textColor="@color/battleship_grey"
+                    android:gravity="center|left"
+                    android:id="@+id/force_bk_txt"
+                    android:text="Force backup"/>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/force_dwnld"
+                android:orientation="horizontal">
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:textSize="25sp"
+                    android:text="@string/cloud_down"
+                    android:id="@+id/cloud_down"
+                    android:gravity="center"
+                    android:textColor="@color/orange1"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center|left"
+                    android:textColor="@color/battleship_grey"
+                    android:layout_weight="1"
+                    android:id="@+id/force_dwn_txt"
+                    android:text="Force download"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardBackgroundColor="@color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bottom_border"
+                android:textColor="@color/battleship_grey"
+                android:text="Reporting"
+                android:textSize="20sp"
+                android:padding="5dp"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/export_log"
+                android:clickable="true"
+                android:background="@drawable/bottom_border"
+                android:orientation="horizontal">
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:textSize="25sp"
+                    android:text="@string/send"
+                    android:gravity="center"
+                    android:id="@+id/send_log"
+                    android:textColor="@color/turquoise"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:textColor="@color/battleship_grey"
+                    android:gravity="center|left"
+                    android:id="@+id/send_log_txt"
+                    android:text="Export logs"/>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

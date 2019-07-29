@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:layout_height="match_parent">
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:id="@+id/date"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@color/battleship_grey"
+            android:text="Total debt: "/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center|right"
+            android:textColor="@color/black"
+            android:id="@+id/debt"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@color/battleship_grey"
+            android:text="Amount paid: "/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textColor="@color/black"
+            android:gravity="center|right"
+            android:id="@+id/amount_paid"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="@color/battleship_grey"
+            android:text="Balance: "/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center|right"
+            android:textColor="@color/pomegranate"
+            android:id="@+id/balance"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="7dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:clickable="true"
+        android:id="@+id/date"
+        app:cardBackgroundColor="@color/turquoise">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Today"
+                android:id="@+id/date_text"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:layout_marginRight="5dp"
+                android:textColor="@color/white"/>
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:text="@string/calendar"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        app:cardBackgroundColor="#ffffff">
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/purchases_list"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/no_purchases">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/truck"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:textColor="@color/battleship_grey"
+                android:id="@+id/purchase_icon"
+                android:layout_centerInParent="true"/>
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="No purchases were made on this day"
+                android:textColor="@color/battleship_grey"
+                android:gravity="center"
+                android:layout_below="@+id/purchase_icon"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

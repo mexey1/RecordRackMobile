@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <ScrollView
+        android:id="@+id/new_user_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical" >
+            <ImageView
+                android:layout_width="122dp"
+                android:layout_height="122dp"
+                android:src="@drawable/burglar"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"/>
+
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="@string/account_setup_text"/>
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/name"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:background="@drawable/username"
+                android:ems="10"
+                android:hint="@string/name"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:inputType="text" >
+                <requestFocus />
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/username"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/username"
+                android:ems="10"
+                android:padding="10dp"
+                android:hint="@string/username"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:inputType="text" >
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/password"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:padding="10dp"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:background="@drawable/username"
+                android:hint="@string/password"
+                android:inputType="textPassword" >
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/security_question"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:hint="@string/security_question"
+                android:background="@drawable/username"
+                android:inputType="text">
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/answer"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColorHint="@color/battleship_grey"
+                android:textColor="@color/black"
+                android:padding="10dp"
+                android:background="@drawable/username"
+                android:hint="@string/answer"
+                android:inputType="text" >
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+            <Button
+                android:id="@+id/new_user_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@drawable/blue_round_button"
+                android:onClick="done"
+                android:text="@string/done"
+                android:textColor="@color/white" />
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

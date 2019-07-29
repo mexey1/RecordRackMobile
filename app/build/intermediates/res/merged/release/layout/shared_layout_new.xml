@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/turquoise_edittext">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:background="@color/turquoise"
+            android:text="@string/search"/>
+        <com.geckosolutions.recordrack.custom.CustomEditText
+            android:layout_width="match_parent"
+            android:paddingLeft="10dp"
+            android:background="@android:color/transparent"
+            android:textColor="@color/black"
+            android:id="@+id/search"
+            android:hint="Enter product name"
+            android:textColorHint="@color/battleship_grey"
+            android:layout_height="40dp" />
+    </LinearLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/bottom_border"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:id="@+id/parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/no_content">
+                <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:id="@+id/search_icon"
+                    android:textSize="18sp"
+                    android:textColor="@color/battleship_grey"
+                    android:layout_marginBottom="10dp"
+                    android:text="@string/search"/>
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/no_sales_text"
+                    android:text="Products would appear here as you type"
+                    android:textColor="@color/battleship_grey"
+                    android:layout_below="@+id/search_icon"
+                    android:gravity="center"
+                    android:textSize="12sp"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:layout_marginBottom="5dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="0.7"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginBottom="5dp">
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Unit"
+                        android:textColor="@color/battleship_grey"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:orientation="horizontal"
+                        android:background="@drawable/turquoise_edittext">
+                        <com.geckosolutions.recordrack.custom.CustomSpinner
+                            android:layout_width="0dp"
+                            android:layout_height="40dp"
+                            android:layout_weight="1"
+                            android:textColor="@color/black"
+                            android:background="@android:color/transparent"
+                            android:id="@+id/spinner"
+                            android:spinnerMode="dropdown"></com.geckosolutions.recordrack.custom.CustomSpinner>
+                        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:text="@string/chevron_down"
+                            android:clickable="true"
+                            android:gravity="center"
+                            android:textSize="15sp"
+                            android:textColor="@color/battleship_grey"
+                            />
+                    </LinearLayout>
+                </LinearLayout>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.1"/>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical">
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Qty: "
+                        android:textColor="@color/battleship_grey"/>
+
+                    <com.geckosolutions.recordrack.custom.CustomEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:id="@+id/quantity"
+                        android:paddingLeft="10dp"
+                        android:inputType="numberDecimal"
+                        android:gravity="center|left"
+                        android:textColor="@color/black"
+                        android:background="@drawable/turquoise_edittext"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:orientation="vertical">
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Unit price: "
+                        android:gravity="center"
+                        android:textColor="@color/battleship_grey"/>
+
+                    <com.geckosolutions.recordrack.custom.CustomEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_weight="0.5"
+                        android:id="@+id/unit_price"
+                        android:gravity="center|left"
+                        android:paddingLeft="10dp"
+                        android:inputType="numberDecimal"
+                        android:textColor="@color/black"
+                        android:background="@drawable/turquoise_edittext"/>
+                </LinearLayout>
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.1"/>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="0.5"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="Total"
+                        android:gravity="center"
+                        android:textColor="@color/battleship_grey"/>
+
+                    <com.geckosolutions.recordrack.custom.CustomTextView
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:textColor="@color/black"
+                        android:id="@+id/total"
+                        android:paddingLeft="10dp"
+                        android:gravity="center|left"
+                        android:background="@drawable/turquoise_edittext"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

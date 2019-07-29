@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="#ffffff"
+    app:cardElevation="4dp"
+    android:layout_margin="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_weight="0.4"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:background="@drawable/turquoise_edittext"
+            android:padding="10dp"
+            android:gravity="center"
+            android:id="@+id/unit"
+            android:text="Hello there"
+            android:textColor="@color/black"/>
+        <com.geckosolutions.recordrack.custom.CustomEditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:gravity="center"
+            android:inputType="numberDecimal"
+            android:background="@drawable/turquoise_edittext"
+            android:layout_margin="5dp"
+            android:id="@+id/quantity"
+            android:textColorHint="@color/battleship_grey"
+            android:hint="Quantity"
+            android:textColor="@color/black"/>
+        <com.geckosolutions.recordrack.custom.CustomEditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:layout_margin="5dp"
+            android:inputType="numberDecimal"
+            android:id="@+id/price"
+            android:textColorHint="@color/battleship_grey"
+            android:hint="Price"
+            android:gravity="center"
+            android:background="@drawable/turquoise_edittext"
+            android:textColor="@color/black"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

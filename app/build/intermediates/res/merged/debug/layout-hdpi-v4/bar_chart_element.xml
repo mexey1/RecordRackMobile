@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:gravity="bottom">
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:gravity="center"
+        android:textColor="@color/battleship_grey"
+        android:id="@+id/value"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/pomegranate"
+        android:id="@+id/bar"/>
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/label"
+        android:textColor="@color/battleship_grey"
+        android:gravity="center"
+        android:singleLine="true"/>
+
+</LinearLayout>

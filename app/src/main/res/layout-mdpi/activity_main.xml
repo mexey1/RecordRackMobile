@@ -1,0 +1,173 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@android:color/white"
+    android:id="@+id/main_layout"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/view_pager"
+        android:layout_above="@+id/positions">
+
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/positions"
+        android:gravity="center"
+        android:layout_above="@+id/get_started"
+        android:orientation="horizontal">
+        <View
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_margin="5dp"
+            android:id="@+id/pos1"
+            android:background="@drawable/grey_circle"/>
+        <View
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_margin="5dp"
+            android:id="@+id/pos2"
+            android:background="@drawable/white_circle"/>
+        <View
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_margin="5dp"
+            android:id="@+id/pos3"
+            android:background="@drawable/white_circle"/>
+        <View
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_margin="5dp"
+            android:id="@+id/pos4"
+            android:background="@drawable/white_circle"/>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/login_button"
+        android:textColor="@color/white"
+        android:id="@+id/get_started"
+        android:layout_alignParentBottom="true"
+        android:text="Get started"/>
+
+
+
+    <ImageView
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:scaleType="fitXY"
+        android:visibility="gone"
+        android:id="@+id/logo"
+        android:src="@drawable/logo"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/logo"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="100dp"
+        android:visibility="gone"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:text="Welcome to Record Rack"/>
+
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:layout_margin="10dp"
+            android:textColor="@color/battleship_grey"
+            android:text="Swipe to learn more">
+
+        </com.geckosolutions.recordrack.custom.CustomTextView>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/login_button"
+            android:textColor="@color/white"
+            android:text="Get started"/>
+
+
+
+
+
+        <!--android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"-->
+
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:visibility="gone"
+            android:orientation="horizontal" >
+
+            <com.geckosolutions.recordrack.custom.CustomEditText
+                android:id="@+id/rack_id"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_weight="0"
+                android:ems="10"
+
+                android:maxLength="10"
+                android:hint="@string/rack_id_hint"
+                android:background="@drawable/username"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                >
+                <requestFocus />
+            </com.geckosolutions.recordrack.custom.CustomEditText>
+
+
+            <com.geckosolutions.recordrack.custom.CustomTextView
+                android:id="@+id/what_is_this"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="0"
+                android:clickable="true"
+                android:text="@string/what_is_this"/>
+
+            <Button
+                android:id="@+id/register"
+                android:layout_width="96dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:textColor="@android:color/white"
+                android:layout_weight="0.5"
+                android:onClick="register"
+                android:layout_marginLeft="2.5dp"
+                android:background="@color/create_user_done_button"
+                android:text="@string/register" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

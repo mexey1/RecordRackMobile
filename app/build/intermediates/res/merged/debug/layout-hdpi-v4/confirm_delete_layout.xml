@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@color/wet_asphalt">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/question_circle"
+            android:textColor="@color/white"/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:gravity="center_vertical"
+            android:text="Confirm"/>
+    </LinearLayout>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Are you sure you want to delete this entry?"
+        android:background="@drawable/bottom_border"
+        android:id="@+id/text"
+        android:layout_margin="10dp"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="10dp">
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Confirm"
+            android:textColor="@color/white"
+            android:layout_margin="5dp"
+            android:id="@+id/confirm"
+            android:background="@color/turquoise"
+            />
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Cancel"
+            android:layout_margin="5dp"
+            android:textColor="@color/white"
+            android:id="@+id/cancel"
+            android:background="@color/pomegranate"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

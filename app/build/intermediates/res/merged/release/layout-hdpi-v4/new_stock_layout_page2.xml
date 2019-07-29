@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Units and prices"
+            android:textColor="@color/wet_asphalt"
+            android:gravity="center"
+            android:textSize="20sp"/>
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/units_and_prices_lay"
+                android:orientation="vertical">
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="bottom|right">
+
+        <!--<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:id="@+id/round_buttons_layout">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/turquoise_round_button"
+                android:textColor="@color/white"
+                android:text="@string/plus"
+                android:id="@+id/add_button"
+                android:gravity="center"
+                android:layout_margin="20dp"/>
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/blue_round_button"
+                android:textColor="@color/white"
+                android:text="@string/info"
+                android:id="@+id/info"
+                android:gravity="center"
+                android:layout_margin="20dp"/>
+
+        </LinearLayout>
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/orange_round_button"
+            android:text="@string/bars"
+            android:id="@+id/bars"
+            android:clickable="true"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:layout_margin="20dp"/>-->
+    </LinearLayout>
+</FrameLayout>

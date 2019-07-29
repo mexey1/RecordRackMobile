@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/on_switch_curved_corners"
+    android:clickable="true"
+    android:id="@+id/on_switch"
+    android:onClick="switchOff"
+    android:padding="2dp">
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:text="@string/on"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/turquoise"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        />
+    <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+        android:layout_width="40dp"
+        android:layout_height="30dp"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textColor="@color/turquoise"
+        android:text="@string/circle_filled"/>
+
+</LinearLayout>

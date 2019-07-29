@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

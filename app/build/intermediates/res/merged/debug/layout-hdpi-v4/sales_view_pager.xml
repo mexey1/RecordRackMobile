@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:orientation="horizontal">
+       <com.geckosolutions.recordrack.custom.CustomTextView
+           android:layout_width="0dp"
+           android:layout_height="50dp"
+           android:gravity="center"
+           android:layout_weight="0.5"
+           android:clickable="true"
+           android:textColor="@color/white"
+           android:background="@color/orange"
+           android:id="@+id/sales_info"
+           android:text="Sales info"/>
+       <View
+           android:layout_width="1dp"
+           android:layout_height="match_parent"
+           android:background="@color/battleship_grey"/>
+       <com.geckosolutions.recordrack.custom.CustomTextView
+           android:layout_width="0dp"
+           android:layout_height="50dp"
+           android:layout_weight="0.5"
+           android:gravity="center"
+           android:textColor="@color/white"
+           android:background="@color/orange1"
+           android:clickable="true"
+           android:id="@+id/search_sales"
+           android:text="Search sales"/>
+       <View
+           android:layout_width="1dp"
+           android:layout_height="match_parent"
+           android:background="@color/battleship_grey"/>
+       <com.geckosolutions.recordrack.custom.CustomTextView
+           android:layout_width="0dp"
+           android:layout_height="50dp"
+           android:gravity="center"
+           android:layout_weight="0.5"
+           android:clickable="true"
+           android:textColor="@color/white"
+           android:background="@color/orange1"
+           android:id="@+id/new_sales"
+           android:text="New sales"/>
+   </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/view_pager">
+    </android.support.v4.view.ViewPager>
+</LinearLayout>

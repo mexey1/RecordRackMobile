@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/white">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/rack_logo"
+        android:id="@+id/image"/>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="10dp"
+        android:hint="Please enter a valid email address associated with this business. In the event of losing a device or adding a new store location, the email address helps organize and retrieve your data."
+        android:gravity="center"/>
+
+    <com.geckosolutions.recordrack.custom.CustomEditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/turquoise_edittext"
+        android:hint="Enter your business email address"
+        android:inputType="textEmailAddress"
+        android:gravity="center"
+        android:id="@+id/email_address"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Continue"
+        android:id="@+id/continue_button"
+        android:textColor="@color/white"
+        android:background="@drawable/login_button"/>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/export_logs"
+        android:id="@+id/export_log"/>
+</LinearLayout>

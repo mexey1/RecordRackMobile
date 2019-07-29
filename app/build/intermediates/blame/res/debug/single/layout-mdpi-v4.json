@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/debtor_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/debtor_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/expense_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/expense_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_main_child2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_main_child2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/purchases_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/purchases_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_item2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_item2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/view.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/view.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/revenue_summary.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/revenue_summary.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_options_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_options_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_main_child1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_main_child1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/income_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/income_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/pricelist_edit_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/pricelist_edit_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/expense_fragment.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/expense_fragment.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/store_list_activity.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/store_list_activity.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/pricelist_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/pricelist_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/popup_window_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/popup_window_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/search_menu_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/search_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/payment_method.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/payment_method.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/quantity_price_value.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/quantity_price_value.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_product_name_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_product_name_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/unit_relationship_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/unit_relationship_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_expense_entry.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_expense_entry.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/unit_relationship_view_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/unit_relationship_view_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_income_entry.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_income_entry.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/search_mode_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/search_mode_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/shared_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/shared_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/debt_transaction_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/debt_transaction_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/debt_payment_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/debt_payment_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/grid_view_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/grid_view_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/search_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/search_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/login_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/login_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/transaction_selection_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/transaction_selection_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/quantity_price_relationship.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/quantity_price_relationship.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_customer.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_customer.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/account_setup.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/account_setup.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/edit_not_allowed.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/edit_not_allowed.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/bar_chart_element.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/bar_chart_element.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/item_for_sale.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/item_for_sale.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_main_child0.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_main_child0.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/debt_payment_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/debt_payment_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_main_child3.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_main_child3.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_product_parent_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_product_parent_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/email_address_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/email_address_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/income_fragment.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/income_fragment.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/confirm_delete_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/confirm_delete_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page0.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page0.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page3.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page3.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sub_unit_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sub_unit_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/welcome_to_record_rack.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/welcome_to_record_rack.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_barchart_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_barchart_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/category.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/category.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/password_retrieval_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/password_retrieval_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_purchase_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_purchase_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_view_pager.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_view_pager.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sub_unit_enquiry_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sub_unit_enquiry_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/modified_stocks_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/modified_stocks_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/expenses_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/expenses_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/custom_on_switch.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/custom_on_switch.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_product_name_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_product_name_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/due_date_picker_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/due_date_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/email_verification_code_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/email_verification_code_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/purchase_view_pager.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/purchase_view_pager.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/textview.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/textview.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_main.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_main.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/unit_relationship_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/unit_relationship_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/search_result_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/search_result_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/purchase_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/purchase_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/debtor.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/debtor.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/income_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/income_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page2_1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page2_1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/store_details.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/store_details.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/pricelist_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/pricelist_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/popup_window_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/popup_window_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_stock_layout_page4.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_stock_layout_page4.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sub_units_entry_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sub_units_entry_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/business_location_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/business_location_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/progress_bar.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/no_sub_unit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/no_sub_unit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/bar_chart_container.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/bar_chart_container.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/dashboard_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/dashboard_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/suspend_resume_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/suspend_resume_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/cash_checkout_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/cash_checkout_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/income_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/income_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/custom_off_switch.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/custom_off_switch.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/profile_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/profile_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/expense_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/expense_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/stock_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/stock_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/pricelist_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/pricelist_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/new_sales_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/new_sales_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/price_list_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/price_list_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/unit_relationship_view.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/unit_relationship_view.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/sales_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/sales_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/activity_control.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/activity_control.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/enter_verification_code.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/enter_verification_code.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/information_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/information_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/debug/layout-mdpi-v4/drawer_items.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-mdpi/drawer_items.xml"
+    }
+]

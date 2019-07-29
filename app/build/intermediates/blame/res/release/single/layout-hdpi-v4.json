@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/email_address_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/email_address_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/suspend_resume_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/suspend_resume_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_control.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_control.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/textview.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/textview.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page3.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page3.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_customer.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_customer.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/shared_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/shared_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/unit_relationship_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/unit_relationship_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/pricelist_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/pricelist_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/popup_window_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/popup_window_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/revenue_summary.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/revenue_summary.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page4.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page4.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/search_menu_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/search_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/income_fragment.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/income_fragment.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/bar_chart_container.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/bar_chart_container.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/debtor_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/debtor_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sub_units_entry_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sub_units_entry_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/category.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/category.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/drawer_items.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/drawer_items.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/search_mode_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/search_mode_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/confirm_delete_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/confirm_delete_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/item_for_sale.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/item_for_sale.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sub_unit_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sub_unit_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/enter_verification_code.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/enter_verification_code.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/edit_not_allowed.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/edit_not_allowed.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/store_details.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/store_details.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/popup_window_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/popup_window_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/debt_payment_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/debt_payment_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/account_setup.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/account_setup.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_barchart_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_barchart_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/welcome_to_record_rack.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/welcome_to_record_rack.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page0.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page0.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/store_list_activity.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/store_list_activity.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sub_unit_enquiry_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sub_unit_enquiry_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/search_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/search_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/unit_relationship_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/unit_relationship_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/unit_relationship_view_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/unit_relationship_view_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_view_pager.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_view_pager.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/profile_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/profile_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_main_child3.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_main_child3.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/purchase_view_pager.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/purchase_view_pager.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_main_child0.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_main_child0.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/purchase_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/purchase_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_main.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_main.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/pricelist_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/pricelist_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/pricelist_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/pricelist_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/login_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/login_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/progress_bar.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/quantity_price_relationship.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/quantity_price_relationship.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/debt_payment_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/debt_payment_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/expense_fragment.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/expense_fragment.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/pricelist_edit_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/pricelist_edit_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_product_parent_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_product_parent_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_main_child2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_main_child2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/due_date_picker_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/due_date_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/business_location_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/business_location_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/view.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/view.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_options_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_options_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/expense_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/expense_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/bar_chart_element.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/bar_chart_element.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/password_retrieval_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/password_retrieval_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/expenses_layout_options.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/expenses_layout_options.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/activity_main_child1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/activity_main_child1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/email_verification_code_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/email_verification_code_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/transaction_selection_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/transaction_selection_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/debt_transaction_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/debt_transaction_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_income_entry.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_income_entry.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/sales_item2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/sales_item2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/no_sub_unit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/no_sub_unit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_expense_entry.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_expense_entry.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/income_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/income_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/payment_method.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/payment_method.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/expense_edit_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/expense_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/quantity_price_value.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/quantity_price_value.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/modified_stocks_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/modified_stocks_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/search_result_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/search_result_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/purchases_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/purchases_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/unit_relationship_view.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/unit_relationship_view.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/price_list_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/price_list_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/income_view_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/income_view_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/cash_checkout_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/cash_checkout_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_sales_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_sales_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/custom_off_switch.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/custom_off_switch.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/custom_on_switch.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/custom_on_switch.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/dashboard_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/dashboard_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_purchase_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_purchase_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/income_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/income_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page2_1.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page2_1.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_stock_layout_page2.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_stock_layout_page2.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/debtor.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/debtor.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/information_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/information_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_product_name_help.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_product_name_help.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/new_product_name_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/new_product_name_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_info_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_info_item.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/stock_info_layout.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/stock_info_layout.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/layout-hdpi-v4/grid_view_item.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/layout-hdpi/grid_view_item.xml"
+    }
+]

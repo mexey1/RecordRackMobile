@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="10dp"
+    android:layout_height="match_parent">
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:textColor="@color/battleship_grey"
+        android:gravity="center"
+        android:text="Suspend transaction"/>
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="You can return to complete this transaction by searching for it by either the transact id or customer's name."
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp">
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:text="Suspend"
+            android:background="@drawable/blue_round_button"
+            android:clickable="true"
+            android:id="@+id/suspend"
+            android:textColor="@color/white"
+            android:layout_marginRight="5dp"
+            />
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:background="@drawable/pomegranate_round_button"
+            android:textColor="@color/white"
+            android:id="@+id/cancel"
+            android:clickable="true"
+            android:text="Cancel"/>
+    </LinearLayout>
+</LinearLayout>

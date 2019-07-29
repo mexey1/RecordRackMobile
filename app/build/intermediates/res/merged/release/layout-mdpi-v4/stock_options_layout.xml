@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/plus"
+            android:textColor="@color/turquoise"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:layout_weight="0.2"/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="New stock"
+            android:gravity="center_vertical"
+            android:layout_weight="0.8"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/edit"
+            android:textColor="@color/orange1"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:layout_weight="0.2"/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Edit stock"
+            android:gravity="center_vertical"
+            android:layout_weight="0.8"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:orientation="horizontal">
+        <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="@string/minus"
+            android:textColor="@color/pomegranate"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:layout_weight="0.2"/>
+        <com.geckosolutions.recordrack.custom.CustomTextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Delete stock"
+            android:gravity="center_vertical"
+            android:layout_weight="0.8"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi-v4/record_rack.jpg",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/record_rack.jpg"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi-v4/login_inner_layout_focused.xml",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/login_inner_layout_focused.xml"
+    },
+    {
+        "merged": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/res/merged/release/drawable-nodpi-v4/record_rack_small.jpg",
+        "source": "/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/src/main/res/drawable-nodpi/record_rack_small.jpg"
+    }
+]

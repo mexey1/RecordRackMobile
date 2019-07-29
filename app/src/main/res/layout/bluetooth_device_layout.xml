@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@drawable/bottom_border">
+    <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:textColor="@color/turquoise"
+        android:id="@+id/device_icon"/>
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="Hello"
+        android:id="@+id/device_name"
+        android:paddingLeft="10dp"
+        android:textColor="@color/black"
+        android:gravity="left|center"/>
+</LinearLayout>

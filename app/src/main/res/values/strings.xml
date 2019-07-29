@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Record Rack</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="rack_id_hint">Rack ID</string>
+    <string name="what_is_this"><u>What is this...?</u></string>
+    <string name="sub_units"><u>What are sub-units?</u></string>
+    <string name="forgot"><u>Forgot account?</u></string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="register">Register</string>
+    <string name="rack_id_description">Your Rack ID is the ten digit alphanumeric character that was issued for each store you registered during the sign up process.
+                                       In case you haven\'t signed up, please visit www.recordrack.biz to get started. </string>
+    <string name="base_unit_description">This is the smallest unit for which this item can be sold in. E.g In a pack of sweets,we can either sell the whole pack or the sachets.
+                                        \n In this case, the smallest sellable unit is "Sachet". Use the &lt;font size="30" color="#1ABC9C"> + &lt;/font> sign to specify how many "Sachets" are in a pack</string>
+    <string name="title_activity_store_details">StoreDetails</string>
+    <string name="business_name_hint">Business name</string>
+    <string name="business_address_hint">Business address</string>
+    <string name="business_type_hint">Business type</string>
+    <string name="est_year_hint">Establishment year</string>
+    <string name="continue_button">Continue</string>
+    <string name="business_details">Tell us a little about your business.</string>
+    <string name="account_setup_text">Let\'s keep unwanted users away</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="security_question">Security Question</string>
+    <string name="answer">Answer</string>
+    <string name="title_activity_account_setup">Account Setup</string>
+    <string name="done">Done</string>
+    <string name="title_activity_control">Record Rack</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="subway">&#xf0a4;</string>
+    <string name="circle_filled">&#xf111;</string>
+    <string name="user">\ue631</string>
+    <string name="message">&#xf003;</string>
+    <string name="login">Login</string>
+    <string name="lock">\ue633</string>
+    <string name="plus">&#xf067;</string>
+    <string name="edit">&#xf044;</string>
+    <string name="minus">&#xf068;</string>
+    <string name="category">Category</string>
+    <string name="question_circle">&#xf059;</string>
+    <string name="question">&#xf128;</string>
+    <string name="plus_circle">&#xf055;</string>
+    <string name="minus_circle">&#xf056;</string>
+    <string name="submit">Submit</string>
+    <string name="x">\ue609</string>
+    <string name="x2">&#xf00d;</string>
+    <string name="trash">&#xf014;</string>
+    <string name="naira">&#8358;</string>
+    <string name="circle_hollow">&#xf10c;</string>
+    <string name="bars">&#xf0c9;</string>
+    <string name="ellipsis">&#xf142;</string>
+    <string name="info">&#xf129;</string>
+    <string name="cash">&#xf0d6;</string>
+    <string name="card">&#xf09d;</string>
+    <string name="credit">&#xf145;</string>
+    <string name="stop">&#xf256;</string>
+    <string name="exclamation_circle">&#xf06a;</string>
+    <string name="exclamation_triangle">&#xf071;</string>
+    <string name="price_list">&#xf016;</string>
+    <string name="truck">&#xf0d1;</string>
+    <string name="num_asc">&#xf162;</string>
+    <string name="char_asc">&#xf15d;</string>
+    <string name="clock">&#xf017;</string>
+    <string name="shop">&#xf19c;</string>
+
+    <!--bluetooth related strings-->
+    <string name="bluetooth">&#xf293;</string>
+    <string name="phone">&#xf10b;</string>
+
+    <string name="summary">Summary</string>
+    <string name="quantity_available">Quantity Available</string>
+    <string name="unit_relationships">Unit Relationships</string>
+    <string name="add_units"><u>Click here for advanced options</u></string>
+    <string name="new_item">New item</string>
+    <string name="options">&#xf0ae;</string>
+
+    <!--<string name="arrow">&#xf061;</string>-->
+    <string name="right_arrow">&#xf178;</string>
+    <string name="left_arrow">&#xf177;</string>
+    <string name="empty_stock">&#xf291;</string>
+    <string name="chevron_down">&#xf078;</string>
+    <string name="chevron_up">&#xf077;</string>
+    <string name="calendar">&#xf073;</string>
+    <string name="search">&#xf002;</string>
+    <string name="view">&#xf06e;</string>
+    <string name="forward">&#xf061;</string>
+    <string name="backward">&#xf060;</string>
+    <string name="caret_down">&#xf0d7;</string>
+    <string name="send">&#xf1d8;</string>
+    <string name="thumbs_up">&#xf087;</string>
+    <string name="print">&#xf02f;</string>
+    <string name="debtor">&#xf21b;</string>
+    <string name="cloud_up">&#xf0ee;</string>
+    <string name="cloud_down">&#xf0ed;</string>
+    <string name="export_logs"><u>Export logs</u></string>
+    <!--<string name="arrow">\ue607</string>-->
+    <string-array name="drawer_item_icons">
+        <item>&#xf0e4;</item>
+        <item>&#xf155;</item>
+        <item>&#xf0d1;</item><!--&#xf07a-->
+        <item>&#xf080;</item>
+        <item>&#xf016;</item>
+        <item>&#xf21b;</item>
+        <item>&#xf0d6;</item>
+        <item>&#xf09d;</item>
+        <item>&#xf044;</item>
+        <item>&#xf013;</item>
+    </string-array>
+</resources>

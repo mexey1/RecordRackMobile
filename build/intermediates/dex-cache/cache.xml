@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/eb41f55b648ac56427ca36240820b5f22193d3f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16706cf322301751b8dab1802a859a3d3db9af76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/1b5da78ef6b2884a3a9406f37b1088784d1f45e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_934c6045724d6f7fd1d885b5d999f5b66b4b4575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/71a41cd9ab79740e882702b368a0bfac15022362/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b9259e4ac3f8ac5cd49ba16198a2baa55fe307c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/8ec745e361b36f9a18b5305a807d0127e7d5fd99/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c3b34a8ff46560579b7e6104abd7e4b3a89decb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78b8321d7fa86bb37bd5d29c4cb73ded32f370c1">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da597367edf4ff95d1fa8a1094d867c1a77e6efd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/eb41f55b648ac56427ca36240820b5f22193d3f9/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5ab0ccb28dc247d4fb9012d53793b289693ddcf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/88eea5b7ce0b1fa94845f0de491333f6c01519d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d19f84ed2a6781d5d1c81327edcabd5f7ba7e2d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/371f71e3435221d19ae683272483af9c88d4c5ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9933bd78389c4ae227dedffe6dc9ec4975fedce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/1b5da78ef6b2884a3a9406f37b1088784d1f45e8/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_81a33187fb5330737745b9aeb81040146505e603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/f7a43e20d18d2455329630c772609b82474d15c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c22da5aea17fa2b0970ddda23a1f167b576e753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_7c8d4d17d930d20ef34ad4965526c2dfa262f5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/166a606e82f2781835f8df750ee0ea640aa68437/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aff32f84194aa2c69b7aba5c779ac760f7af8a2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/166a606e82f2781835f8df750ee0ea640aa68437/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0ccf5560fcb172e0934db3a87dd5cdfe697468b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/55a617b5f47f4d4108431545cf646f27b6c3e7df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_944db02814aa3cf493c26e8540610f6a918dfea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/bd1374bd7fea1893cc3316132e3c42b555850943/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b40621e2866bca88bd78b0d726c41f75b4335afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/bd1374bd7fea1893cc3316132e3c42b555850943/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78eed6cb77e49c4afd2b10b74175d0dcc6356952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c5109192d7fefeed634dc6a2266d9a8dbe21dd43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/149953495a8107ed55d43f1621793f433dac5a49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5c4f1e90d596a75451ca0d48921c52307bcee37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/854843d383256734c1d8415c594cefb397fe4fa0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f716201dc62546beba025923c22f901f85b28a4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anthony1/.android/build-cache/8ec745e361b36f9a18b5305a807d0127e7d5fd99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b463f5fcf24b9547ce3289c8d286350b2b2fdd8/classes.dex" />
+    </item>
+
+</items>

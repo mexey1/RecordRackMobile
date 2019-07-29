@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.geckosolutions.recordrack.custom.CustomTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="What would you like to do?"
+        android:textColor="@color/wet_asphalt"
+        android:layout_marginBottom="10dp"
+        android:textSize="18sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:orientation="vertical"
+            android:clickable="true">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:gravity="center"
+                android:text="@string/naira"
+                android:textColor="@color/turquoise"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:gravity="center"
+                android:text="New sales"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:clickable="true"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:gravity="center"
+                android:text="@string/naira"
+                android:textColor="@color/peterriver"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:gravity="center"
+                android:text="Edit sales"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:clickable="true"
+            android:orientation="vertical">
+            <com.geckosolutions.recordrack.custom.FontAwesomeTextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:gravity="center"
+                android:text="@string/naira"
+                android:textColor="@color/orange1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:gravity="center"
+                android:text="Resume sales"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

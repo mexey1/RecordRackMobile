@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.geckosolutions.recordrack"
+    android:versionCode="20"
+    android:versionName="1.20" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name="com.geckosolutions.recordrack.logic.RecordRackApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme" >
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.MainActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.StoreDetails"
+            android:label="@string/title_activity_store_details"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.AccountSetup"
+            android:label="@string/title_activity_account_setup"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.ControlActivity"
+            android:label="@string/title_activity_control"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.LoginActivity"
+            android:label="@string/login"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+        </activity>
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.ModifiedStockActivity"
+            android:label="@string/new_item"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.SaleViewActivity"
+            android:label="View sales"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.EmailAddressActivity"
+            android:label="Email address"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.geckosolutions.recordrack.activities.StoresListActivity"
+            android:label="Stores"
+            android:screenOrientation="portrait" />
+
+        <!--
+            <activity android:name=".activities.StockRelationshipActivity"
+            android:label="Unit relationship"
+            android:theme="@style/Theme.AppCompat.Light.Dialog"
+            android:screenOrientation="portrait"/>
+        -->
+        <receiver
+            android:name="com.geckosolutions.recordrack.receivers.BluetoothReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.DISCOVERY_STARTED" />
+                <action android:name="android.bluetooth.adapter.action.DISCOVERY_FINISHED" />
+                <action android:name="android.bluetooth.device.action.NAME_CHANGED" />
+                <action android:name="android.bluetooth.device.action.FOUND" />
+                <action android:name="android.bluetooth.device.action.BOND_STATE_CHANGED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.geckosolutions.recordrack.receivers.InternetReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+#Wed Apr 25 01:15:29 CDT 2018
+base.0=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/anthony1/Google Drive/AndroidstudioProjects/RecordRack/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

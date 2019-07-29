@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:scaleType="fitXY"
+                android:maxWidth="250dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="50dp"
+                android:src="@drawable/record_rack"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/inner_layout"
+                android:padding="20dp"
+                android:layout_margin="20dp"
+                android:background="@drawable/login_page_inner_background"
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:orientation="horizontal"
+                    android:id="@+id/username_layout"
+                    android:background="@drawable/login_inner_layout_unfocused"
+                    android:layout_marginBottom="20dp">
+                    <com.geckosolutions.recordrack.custom.CustomEditText
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:hint="Enter your username"
+                        android:id="@+id/username"
+                        android:maxLines="1"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:gravity="center_vertical"
+                        android:background="@android:color/transparent"
+                        android:layout_weight="0.8"/>
+                    <com.geckosolutions.recordrack.custom.FlatUITextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:text="@string/user"
+                        android:id="@+id/user_icon"
+                        android:gravity="center"
+                        android:layout_weight="0.2"/>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:id="@+id/password_layout"
+                    android:background="@drawable/login_inner_layout_unfocused"
+                    android:orientation="horizontal">
+                    <com.geckosolutions.recordrack.custom.CustomEditText
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:hint="Password"
+                        android:id="@+id/password"
+                        android:padding="10dp"
+                        android:background="@android:color/transparent"
+                        android:gravity="center_vertical"
+                        android:inputType="textPassword"
+                        android:maxLines="1"
+                        android:layout_weight="0.8"/>
+                    <com.geckosolutions.recordrack.custom.FlatUITextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:id="@+id/pass_icon"
+                        android:text="@string/lock"
+                        android:gravity="center"
+                        android:layout_weight="0.2"/>
+                </LinearLayout>
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:text="Log in"
+                    android:layout_marginTop="15dp"
+                    android:textColor="@color/white"
+                    android:layout_height="50dp"
+                    android:onClick="login"
+                    android:background="@drawable/login_button"/>
+
+
+
+                <com.geckosolutions.recordrack.custom.CustomTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:gravity="center"
+                    android:id="@+id/forgot_password"
+                    android:text="@string/forgot"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
